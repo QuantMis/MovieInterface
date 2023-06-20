@@ -28,7 +28,7 @@ const App=()=>{
     //render
     return(
         <div className="app">
-            <h1>MovieUI</h1>
+            <h1>MovieUI - edited</h1>
 
             <div className="search">
                 <input 
